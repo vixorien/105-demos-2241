@@ -94,7 +94,7 @@ namespace PropertyDemo
 		/// </summary>
 		public void Print()
 		{
-            Console.WriteLine($"{color} {make} {model} has {mileage} miles");
+			Console.WriteLine($"{color} {make} {model} has {mileage} miles");
 		}
 	}
 }
